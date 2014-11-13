@@ -8,7 +8,7 @@ Mansory dispone de multitud de opciones como podrás ver en su [web](http://maso
 Para recrear un ejemplo básico he creado <div> con fondos de colores diferentes.
 Puedes ver el resultado del uso de la librería en el archivo index.html del repo. Observa que es Responsive. 
 
-Para comenzar en el <head> tienes que incluir JQuery y la librería Mansory. 
+Para comenzar en el ~~<head>~~ tienes que incluir JQuery y la librería Mansory. 
 Posteriormente he escrito en el mismo html el estilo CSS de los diferentes <div>, dándole alturas diferentes a cada uno de ellos. Todos son float:left. 
 
 Finalmente realizamos la llamada a las funciones de la librería Mansory de la siguiente forma: 
