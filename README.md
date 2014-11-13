@@ -3,7 +3,7 @@ Ejemplo de cómo crear un diseño tipo Pinterest con la librería JQuery Mansory
 
 Debido a la flotabilidad de los elementos en CSS, no podemos hacer que elementos de diferente altura se unan, por así decirlo, de forma vertical. Para ello tendremos que usar alguna librería que trabaje en cliente. He eligido la librería Mansory, utilizada de forma muy básica, para crear este efecto.
 
-Mansory dispone de multitud de opciones como podrás ver en su (web)[http://masonry.desandro.com/]
+Mansory dispone de multitud de opciones como podrás ver en su [web](http://masonry.desandro.com/)
 
 Para recrear un ejemplo básico he creado <div> con fondos de colores diferentes.
 Puedes ver el resultado del uso de la librería en el archivo index.html del repo. Observa que es Responsive. 
